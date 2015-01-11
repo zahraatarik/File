@@ -26,7 +26,7 @@ public class MyActivity extends Activity implements View.OnClickListener {
     TextView outDataView;
     int i;
     FileOutputStream fos;
-
+/////
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
